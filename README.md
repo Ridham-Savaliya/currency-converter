@@ -1,2 +1,2 @@
 # currency-converter
-I made currency converter using the html,css, javascript and API
+I made currency converter using the html,css, javascript and API Which can converts any currency into your favorite currency using API And also displays it to the user converted amont and i also apply many error handlers into it and also i made it Compatible(Responsive)  with every devices....
